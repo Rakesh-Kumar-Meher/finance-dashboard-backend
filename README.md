@@ -296,3 +296,12 @@ This project demonstrates:
 * Financial data processing
 
 It reflects strong backend engineering practices and system design thinking.
+
+
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/yourname/finance-dashboard-backend
+cd finance-dashboard-backend
+mvn spring-boot:run
